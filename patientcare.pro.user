@@ -1,0 +1,311 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-BaseEnvironmentBase</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString">../../../webinars/omap3530/session2/embedded-widgets-1.1.0/examples/patientcare/patientcare.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString">patientcare</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetWorkingDirectory</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserWorkingDirectory</variable>
+  <value type="QString"></value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString">Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString">Debug</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">10</value>
+   <value key="buildDirectory" type="QString">/home/webinars/omap3530/session2/embedded-widgets-1.1.0/examples/patientcare</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Release</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">8</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-uuQdcWYl71,guid=5e74a1fced2a59cce24d4f164bc5deec</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">EXPIRATION_020B=6034 25674 23491 11965 14913 0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_KEYBOARD_LAYOUT=us</value>
+    <value type="QString">GDM_LANG=en_US.UTF-8</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_PID=2460</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-v0HUHB/socket</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/seahorse-Uhz0ux/S.gpg-agent:2548:1</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/home/justin/.gtkrc-1.2-gnome2</value>
+    <value type="QString">HOME=/home/justin</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/home/justin/qtsdk-2009.05/lib/qtcreator:</value>
+    <value type="QString">LOGNAME=justin</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-justin</value>
+    <value type="QString">PATH=/home/justin/qtsdk-2009.05/qt/bin:/home/justin/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString">PWD=/home/justin</value>
+    <value type="QString">QTDIR=/home/justin/qtsdk-2009.05/qt</value>
+    <value type="QString">SESSION_MANAGER=local/jjw-linux:@/tmp/.ICE-unix/2475,unix/jjw-linux:/tmp/.ICE-unix/2475</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=0</value>
+    <value type="QString">SPEECHD_PORT=7560</value>
+    <value type="QString">SSH_AGENT_PID=2525</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-v0HUHB/socket.ssh</value>
+    <value type="QString">USER=justin</value>
+    <value type="QString">USERNAME=justin</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-justin-ECkiQB/database</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/</value>
+    <value type="QString">XDG_SESSION_COOKIE=e07500208fb3e272516de41849f58fb7-1271258859.378301-41232063</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/home/justin/Desktop/Digi Demo/qt-medical-demo-1.0/patientcare.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">linux-g++-64</value>
+    <value type="QString">-r</value>
+    <value type="QString">CONFIG+=debug_and_release</value>
+    <value type="QString">CONFIG+=debug</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/home/justin/qtsdk-2009.05/qt/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/justin/Desktop/Digi Demo/qt-medical-demo-1.0</value>
+   <value key="buildConfiguration" type=""></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-uuQdcWYl71,guid=5e74a1fced2a59cce24d4f164bc5deec</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">EXPIRATION_020B=6034 25674 23491 11965 14913 0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_KEYBOARD_LAYOUT=us</value>
+    <value type="QString">GDM_LANG=en_US.UTF-8</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_PID=2460</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-v0HUHB/socket</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/seahorse-Uhz0ux/S.gpg-agent:2548:1</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/home/justin/.gtkrc-1.2-gnome2</value>
+    <value type="QString">HOME=/home/justin</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/home/justin/qtsdk-2009.05/lib/qtcreator:</value>
+    <value type="QString">LOGNAME=justin</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-justin</value>
+    <value type="QString">PATH=/home/justin/qtsdk-2009.05/qt/bin:/home/justin/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString">PWD=/home/justin</value>
+    <value type="QString">QTDIR=/home/justin/qtsdk-2009.05/qt</value>
+    <value type="QString">SESSION_MANAGER=local/jjw-linux:@/tmp/.ICE-unix/2475,unix/jjw-linux:/tmp/.ICE-unix/2475</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=0</value>
+    <value type="QString">SPEECHD_PORT=7560</value>
+    <value type="QString">SSH_AGENT_PID=2525</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-v0HUHB/socket.ssh</value>
+    <value type="QString">USER=justin</value>
+    <value type="QString">USERNAME=justin</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-justin-ECkiQB/database</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/</value>
+    <value type="QString">XDG_SESSION_COOKIE=e07500208fb3e272516de41849f58fb7-1271258859.378301-41232063</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">debug</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/justin/Desktop/Digi Demo/qt-medical-demo-1.0</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">debug</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CCACHE_DIR=/var/cache/ccache</value>
+    <value type="QString">CCACHE_UMASK=002</value>
+    <value type="QString">COLORTERM=gnome-terminal</value>
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-3FDfywZnBc,guid=beb69d0530934e2530bf6c7e49be8ad5</value>
+    <value type="QString">DESKTOP_STARTUP_ID=</value>
+    <value type="QString">DISPLAY=:1.0</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=Default</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-5FXEcH/socket</value>
+    <value type="QString">GTK_MODULES=gnomebreakpad</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/home/timesys/.gtkrc-1.2-gnome2</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/root</value>
+    <value type="QString">HOSTNAME=localhost.localdomain</value>
+    <value type="QString">INPUTRC=/etc/inputrc</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=timesys</value>
+    <value type="QString">LS_COLORS=no=00:fi=00:di=00;34:ln=00;36:pi=40;33:so=00;35:do=00;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:tw=30;42:ow=34;42:st=37;44:ex=00;32:*.cmd=00;32:*.exe=00;32:*.com=00;32:*.btm=00;32:*.bat=00;32:*.sh=00;32:*.csh=00;32:*.tar=00;31:*.tgz=00;31:*.svgz=00;31:*.arj=00;31:*.taz=00;31:*.lzh=00;31:*.lzma=00;31:*.zip=00;31:*.z=00;31:*.Z=00;31:*.dz=00;31:*.gz=00;31:*.bz2=00;31:*.tbz2=00;31:*.bz=00;31:*.tz=00;31:*.deb=00;31:*.rpm=00;31:*.jar=00;31:*.rar=00;31:*.ace=00;31:*.zoo=00;31:*.cpio=00;31:*.7z=00;31:*.rz=00;31:*.jpg=00;35:*.jpeg=00;35:*.gif=00;35:*.bmp=00;35:*.pbm=00;35:*.pgm=00;35:*.ppm=00;35:*.tga=00;35:*.xbm=00;35:*.xpm=00;35:*.tif=00;35:*.tiff=00;35:*.png=00;35:*.mng=00;35:*.pcx=00;35:*.mov=00;35:*.mpg=00;35:*.mpeg=00;35:*.m2v=00;35:*.mkv=00;35:*.ogm=00;35:*.mp4=00;35:*.m4v=00;35:*.mp4v=00;35:*.vob=00;35:*.qt=00;35:*.nuv=00;35:*.wmv=00;35:*.asf=00;35:*.rm=00;35:*.rmvb=00;35:*.flc=00;35:*.avi=00;35:*.fli=00;35:*.gl=00;35:*.dl=00;35:*.xcf=00;35:*.xwd=00;35:*.yuv=00;35:*.svg=00;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:</value>
+    <value type="QString">MAIL=/var/spool/mail/timesys</value>
+    <value type="QString">OLDPWD=/opt/qtsdk-2009.01/bin/designer</value>
+    <value type="QString">PATH=/opt/qtsdk-2009.01/qt/bin:/home/timesys/builder-250/build_armv7l-timesys-linux-gnueabi/toolchain/bin:/home/webinars/i.MX31PDK/session3/builder/build_armv6l-timesys-linux-gnueabi/toolchain/bin/:/home/webinars/at91sam9263/session3/builder/build_armv5l-timesys-linux-gnueabi/toolchain/bin/:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/lib/ccache:/usr/local/bin:/bin:/usr/bin:/home/timesys/bin</value>
+    <value type="QString">PWD=/opt/qtsdk-2009.01/bin</value>
+    <value type="QString">QTDIR=/opt/qtsdk-2009.01/qt</value>
+    <value type="QString">QTINC=/include</value>
+    <value type="QString">QTLIB=/lib</value>
+    <value type="QString">SDL_AUDIODRIVER=esd</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/2625,unix/unix:/tmp/.ICE-unix/2625</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=4</value>
+    <value type="QString">SSH_AGENT_PID=2627</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-5FXEcH/ssh</value>
+    <value type="QString">SSH_CLIENT=192.168.3.100 57386 22</value>
+    <value type="QString">SSH_CONNECTION=192.168.3.100 57386 192.168.3.122 22</value>
+    <value type="QString">SSH_TTY=/dev/pts/0</value>
+    <value type="QString">TERM=xterm</value>
+    <value type="QString">USER=timesys</value>
+    <value type="QString">VNCDESKTOP=localhost.localdomain:1 (timesys)</value>
+    <value type="QString">WINDOWID=52973628</value>
+    <value type="QString">XAUTHORITY=/root/.xauthgkAg7y</value>
+    <value type="QString">XDG_SESSION_COOKIE=5bfc06a377edcad05c9808064995de39-1237224149.773470-685884523</value>
+    <value type="QString">_=./qtcreator</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/webinars/omap3530/session2/embedded-widgets-1.1.0/examples/patientcare</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <value key="buildConfiguration" type=""></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">release</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Debug</value>
+   <value type="QString">Release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="mkspec" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.qmake</value>
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="clean" type="bool">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray">System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+</qtcreator>

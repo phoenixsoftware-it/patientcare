@@ -1,0 +1,8 @@
+glob:*.obj
+glob:*.user
+glob:*.suo
+glob:*.vcproj
+relre:Makefile
+glob:*.sln
+glob:*.ncb
+relre:doc/html
