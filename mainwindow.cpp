@@ -12,8 +12,8 @@
 #include <QtSvgToggleSwitch>
 
 #include <QtGui/QMouseEvent>
-#include <QtGui/QMenu>
-#include <QtGui/QApplication>
+#include <QMenu>
+#include <QApplication>
 #include <QtCore/QTimer>
 #include <QDesktopWidget>
 #include "patientcarecontroller.h"

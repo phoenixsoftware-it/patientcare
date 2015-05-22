@@ -9,11 +9,11 @@
 #ifndef QT_SCROLL_DIAL_POPUP_H
 #define QT_SCROLL_DIAL_POPUP_H
 
-#include <QtGui/QWidget>
+#include <QWidget>
 #include <QtGui/QPicture>
 #include <QtCore/QString>
 
-#include <QtGui/QAbstractButton>
+#include <QAbstractButton>
 
 class QtScrollDial;
 

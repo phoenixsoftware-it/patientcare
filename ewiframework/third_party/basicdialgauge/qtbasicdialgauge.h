@@ -9,7 +9,7 @@
 #ifndef QT_BASIC_DIAL_GAUGE_H
 #define QT_BASIC_DIAL_GAUGE_H
 
-#include <QtGui/QWidget>
+#include <QWidget>
 
 class QSvgRenderer;
 

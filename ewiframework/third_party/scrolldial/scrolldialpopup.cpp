@@ -13,11 +13,11 @@
 #include <QMouseEvent>
 #include <QApplication>
 #include <QSvgRenderer>
-#include <QtGui/QVBoxLayout>
+#include <QVBoxLayout>
 
 #include <QtBasicDialGauge>
 #include <QtScrollWheel>
-#include <QtGui/QLabel>
+#include <QLabel>
 #include <QtCore/QDebug>
 #include <QtCore/QString>
 #include <QtGui/QBitmap>

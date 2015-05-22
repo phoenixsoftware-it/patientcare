@@ -8,7 +8,7 @@
 
 #include "qtscrollwheel.h"
 
-#include <QtGui/QDesktopWidget>
+#include <QDesktopWidget>
 #include <QtCore/QDebug>
 #include <QtGui/QPainter>
 #include <QSvgRenderer>

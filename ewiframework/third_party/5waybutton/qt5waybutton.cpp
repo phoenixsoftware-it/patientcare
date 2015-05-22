@@ -10,8 +10,8 @@
 #include <QtGui/QMouseEvent>
 #include <QtGui/QPainter>
 #include <QtSvg/QSvgRenderer>
-#include <QtGui/QAbstractButton>
-#include <QtGui/QGridLayout>
+#include <QAbstractButton>
+#include <QGridLayout>
 #include <QtGui/QBitmap>
 
 #include "qt5waybutton.h"

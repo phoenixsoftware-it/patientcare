@@ -9,7 +9,7 @@
 //Button to switch a property on or off
 #ifndef QT_SVG_TOGGLE_SWITCH
 #define QT_SVG_TOGGLE_SWITCH
-#include <QtGui/QAbstractButton>
+#include <QAbstractButton>
 #include <QtCore/QString>
 class QSvgRenderer;
 

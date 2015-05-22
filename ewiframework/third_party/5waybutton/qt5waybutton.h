@@ -13,7 +13,7 @@
 #define QT_5WAY_BUTTON_H
 
 #include <QtCore/QRect>
-#include <QtGui/QAbstractButton>
+#include <QAbstractButton>
 
 class QtSvgPixmapCache;
 class NavigationButton;

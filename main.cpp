@@ -14,7 +14,9 @@
 int main(int argc, char* argv[])
 {
     QApplication app(argc, argv);
+#if (QT_VERSION < QT_VERSION_CHECK(5, 0, 0))
     app.setStyle(new QWindowsStyle());
+#endif
 
     for (int i = 0; i < argc; ++i) {
         if (QString(argv[i]) == QString("-h") ||

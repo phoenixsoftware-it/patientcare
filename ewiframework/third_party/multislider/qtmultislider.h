@@ -13,8 +13,8 @@
 #include <QtCore/QString>
 #include <QtCore/QRect>
 #include <QtCore/QSharedData>
-#include <QtGui/QAbstractSlider>
-#include <QtGui/QProgressBar>
+#include <QAbstractSlider>
+#include <QProgressBar>
 
 #include "qtsvgpixmapcache.h"
 

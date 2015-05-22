@@ -17,7 +17,7 @@
 #include <QtCore/QSharedData>
 #include <QtCore/QUrl>
 #include <QtCore/QString>
-#include <QtGui/QAbstractButton>
+#include <QAbstractButton>
 
 #include "qtsvgpixmapcache.h"
 
